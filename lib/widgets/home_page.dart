@@ -41,6 +41,7 @@ class HomePage extends StatelessWidget {
                     subtitle: Text("Nombre de la banda: "+ listaAlbumes[index]['nombreBanda']),
                     trailing: Text("Año: " + listaAlbumes[index]['anioLanzamiento']));
                     
+                    
 
               });
         }),
